@@ -328,10 +328,11 @@ Async processing
 
 Background job queue
 
-🧑‍💻 Author
+🧑‍💻 Author:-
+MIDDI YOGANANDA REDDY
 
 AI Image Segregator
-Built with ❤️ using Python & Streamlit
+Built with ❤️ using  AI & ML WITH Python & Streamlit
 
 📄 License
 
